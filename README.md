@@ -24,9 +24,9 @@ This is a simple data set retrieved from [CryptoCompare](https://min-api.cryptoc
 
 * See the interactive plot in [Jupyter notebook](crypto_clustering.ipynb). They are also shown right below.:
 
-![3d_scatter](Images/3d_scatter.PNG)
+![3d_scatter](Images/3d_scatter.png)
 
-![hv_scatter](Images/hv_scatter_plot.PNG)
+![hv_scatter](Images/hv_scatter_plot.png)
 
 * There are 532 tradable cryptocurrencies.
 
