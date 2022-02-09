@@ -34,6 +34,8 @@ This is a simple data set retrieved from [CryptoCompare](https://min-api.cryptoc
 
 ## Technical Elements
 
+* Working on incorporating an API call instead of provided csv file.
+
 * Employed Python pandas and numpy skills, and data cleansing methods.
 
 * Performed PCA to then cluster cryptocurrencies using K-means.
