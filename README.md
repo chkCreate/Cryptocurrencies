@@ -17,12 +17,12 @@ This is a simple data set retrieved from [CryptoCompare](https://min-api.cryptoc
 * Applied Principal Component Analysis (PCA) algorithm to reduce the dimensions of the DataFrame to three principal components.
 
 ## Clustering Cryptocurrencies Using K-means
-* Created an elbow curve using hvPlot to find the best values for K from the DataFrame with the three pricipal components. Then, ran the K-means lagorithm to predict the K clusters for the cryptocurrencies' data.
+* Created an elbow curve using hvPlot to find the best values for K from the DataFrame with the three pricipal components. Then, ran the K-means algorithm to predict the K clusters for the cryptocurrencies' data.
 
 ## Data Visualization & Findings
 * Created scatter plots with Plotly Express and hvplot. 
 
-* See the interactive plot in [Jupyter notebook](crypto_clustering.ipynb). They are also shown right below.:
+* See the interactive plot in [crypto_clustering.ipynb](crypto_clustering.ipynb). They are also shown right below.:
 
 ![3d_scatter](Images/3d_scatter.png)
 
